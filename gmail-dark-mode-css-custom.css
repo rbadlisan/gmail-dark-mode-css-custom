@@ -28,24 +28,26 @@
      color: #999
 }
 /* dark theme */
- .gb_Se, .gb_Se.gb_Te, .TD {
-     background: #101010;
-     color: #ccc 
+ .gb_Se, .gb_Se.gb_Te, .TD, .aaZ, .aoT, .aoP .Ar, .Am, .vO {
+     background: #101010 !important;
+     color: #ccc !important;
 }
  .gb_df {
      color: white !important;
 }
-.aeJ, .nH, .zA.yO, .gs, .iY .Bu, .zE, .nr, .aRi, .a3s div, .a3s *, .ac2, .hb, .gb_fa, .ajA, .ZF-z6, .ZF-zT, .ZF-Av .lJ, .ZF-Av .lN {
+.aeJ, .nH, .zA.yO, .gs, .iY .Bu, .zE, .nr, .aRi, .a3s div, .a3s *, .ac2, .hb, .gb_fa, .ajA, .ZF-z6, .ZF-zT, .ZF-Av .lJ, .ZF-Av .lN, .aDj>.aDh, .bv8, .vR>.vN, .IG, .GQ, .aC3, .aDg>.aDj, .HM .aDi::after {
      background: #202020 !important;
 }
- .a3s div, .a3s *, .ac2, .hb, .ZF-z6, .ZF-zT, .ZF-Av .lJ, .ZF-Av .lN, .bs1+.bs3, .btj+.aD {
+.im { color: #607d8b }
+ .a3s div, .ac2, .hb, .ZF-z6, .ZF-zT, .ZF-Av .lJ, .ZF-Av .lN, .bs1+.bs3, .btj+.aD, .Am, .LW-avf.Am, .adn table * {
      color: #ccc !important;
 }
- .a3s div a {
-     color: skyblue !important;
+.ajT { background: #f44336 !important; }
+ .a3s div a, .az9 > span, .id .il, .iW {
+     color: #2196f3 !important;
      background: #191919 !important;
 }
- .x7, .TO .nU>.n0, .qj, .zA.yO, .hx, .g6 {
+ .x7, .TO .nU>.n0, .qj, .zA.yO, .hx, .g6{
      color: #ccc !important;
 }
  .zE, .nr, .aRi, .gH>.gK * {
@@ -58,19 +60,16 @@
      background: #444;
      color: white;
 }
- .z0>.L3:hover, .TO.NQ {
-     background: #101010 
-}
  .zA.yO:hover {
      border-radius: 0;
 }
- .TO .nU>.n0, .qj, .zA.yO, .hx .gD {
+ .TO .nU>.n0, .qj, .zA.yO, .hx .gD, .vN>.vT {
      color: #fefefe 
 }
  .gs {
-     background: white 
+     background: white;
 }
- .wT>.n3 .byl:first-child .aim:first-child .nZ {
+ .wT>.n3 .byl:first-child .aim:first-child .nZ, .z0>.L3:hover, .TO.NQ  {
      background: #101010;
 }
  div[role=listitem].h7:last-child .adn {
