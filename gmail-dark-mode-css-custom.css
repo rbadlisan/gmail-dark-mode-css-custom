@@ -1,7 +1,7 @@
 /*@import url('https://fonts.googleapis.com/css?family=Inter&display=swap');*/
-@import url(https://fonts.googleapis.com/css2?family=Avenir:wght@700&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Inter:wght@800&display=swap);
 .yW, .zA>.a4W, .a3s, .a3s *, .g6, .ha>.hP, .Am, .LW-avf.Am, .TO .nU>.n0, .TO.NQ .nU>.n0, .TO.nZ .nU>.n0, .ah9>.CJ, .n3>.CL>.CK, .z0>.L3, .yW, .zA>.a4W, .a3s, .g6, .ha>.hP, .Am, .LW-avf.Am, .TO .nU>.n0, .TO.NQ .nU>.n0, .TO.nZ .nU>.n0, .ah9>.CJ, .n3>.CL>.CK, .z0>.L3, .Am, .LW-avf.Am, td, .hx .hb {
-    font-family: 'Avenir', sans-serif !important;
+    font-family: 'Inter', sans-serif !important;
 }
 
  .yO {
@@ -30,17 +30,23 @@
      color: #999
 }
 /* dark theme */
- .gb_Se, .gb_Se.gb_Te, .TD, .aaZ, .aoT, .aoP .Ar, .Am, .vO  {
+ .gb_Se, .gb_Se.gb_Te, .TD, .aaZ, .aoT, .aoP .Ar, .Am, .vO {
      background: #101010 !important;
      color: #ccc !important;
 }
  .gb_df, .a3s *, td {
-     // color: #ccc;
+     color: #ccc;
 }
 
-.aeJ, .nH, .zA.yO, .gs, .iY .Bu, .zE, .nr, .aRi, .a3s div, .a3s *, .ac2, .hb, .gb_fa, .ajA, .ZF-z6, .ZF-zT, .ZF-Av .lJ, .ZF-Av .lN, .aDj>.aDh, .bv8, .vR>.vN, .IG, .GQ, .aC3, .aDg>.aDj, .HM .aDi::after, .aoI td, .amn>.ams, .gb_Ue {
-     background: #202020 !important;
+.gE, .aeJ, .nH, .zA.yO, .gs, .iY .Bu, .zE, .nr, .aRi, .a3s div, .a3s *, .ac2, .hb, .gb_fa, .ajA, .ZF-z6, .ZF-zT, .ZF-Av .lJ, .ZF-Av .lN, .aDj>.aDh, .bv8, .vR>.vN, .IG, .GQ, .aC3, .aDg>.aDj, .HM .aDi::after, .aoI td, .amn>.ams, .gb_Ue, .aU4, .hq {
+     background: #202020;
+    color: white !important;
 }
+.a3s td, .gs, .adn table td { background: #202020 !important}
+
+.adn table td h4 { background: #202020 !important; }
+
+
 .im, .aoI td { color: #607d8b }
  .a3s div, .ac2, .hb, .ZF-z6, .ZF-zT, .ZF-Av .lJ, .ZF-Av .lN, .bs1+.bs3, .btj+.aD, .Am, .LW-avf.Am, .adn table * {
      color: #ccc !important;
